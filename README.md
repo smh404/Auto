@@ -3,6 +3,8 @@
 Auto Shutdown Windows Application V.1<br>
 using windows schedule to create new shutdown schedules<br><br>
 
+# Download The Latest Version In Releases Section
+
 V.1<br>
 +has 1 to 60 minutes buttons<br>
 +DropDown Menu for more than 1 hour<br>
