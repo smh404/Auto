@@ -3,7 +3,7 @@
 Auto Shutdown Windows Application V.1<br>
 using windows schedule to create new shutdown schedules<br><br>
 
-# Download The Latest Version In [Releases]: https://github.com/smh044/Auto/releases Section
+# Download The Latest Version In [Releases](https://github.com/smh044/Auto/releases) Section
 
 V.1<br>
 +has 1 to 60 minutes buttons<br>
