@@ -1,11 +1,20 @@
 # Auto
 
-Auto Shutdown Windows Application V.1<br>
-using windows schedule to create new shutdown schedules<br><br>
+
 
 # [Download The Latest Version](https://github.com/smh044/Auto/releases)
 
-V.1<br>
+
+<br>v.2 <br>
++ completely Re-designed and written in c#
++ All options are now HYBRID so windows fast startup is not off
++ New language (فارسی) added
++ 
+
+
+Auto Shutdown Windows Application V.1<br>
+using cmd to create new shutdown schedules<br><br>
+V.1<br> -> made with autorun pro
 + has 1 to 60 minutes buttons<br>
 + DropDown Menu for more than 1 hour<br>
 + included an Abort option to cancel the Schedules at any time<br>
