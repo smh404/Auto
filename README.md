@@ -7,7 +7,7 @@
 Auto Shutdown Windows Application V.2<br>
 using cmd to create new shutdown schedules<br><br>
 
-<br>##v.2 <br>
+##v.2
 + completely Re-designed and written in c#
 + All options are now HYBRID so windows fast startup is now on
 + New language (فارسی) added
