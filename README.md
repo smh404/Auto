@@ -4,6 +4,8 @@
 
 # [Download The Latest Version](https://github.com/smh044/Auto/releases)
 
+Auto Shutdown Windows Application V.2<br>
+using cmd to create new shutdown schedules<br><br>
 
 <br>v.2 <br>
 + completely Re-designed and written in c#
@@ -15,7 +17,7 @@
 
 ------------
 Auto Shutdown Windows Application V.1<br>
-using cmd to create new shutdown schedules<br><br>
+using cmd bat files to create new shutdown schedules<br><br>
 V.1<br> -> made with autorun pro
 + has 1 to 60 minutes buttons<br>
 + DropDown Menu for more than 1 hour<br>
