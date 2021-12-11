@@ -14,7 +14,7 @@ using cmd to create new shutdown schedules<br><br>
   **This New version works with .Net core 6.0
   you can either download the dependent or the independent version(with different sizes)
 
-<br>
+
 ------------
 Auto Shutdown Windows Application V.1<br>
 using cmd bat files to create new shutdown schedules<br><br>
