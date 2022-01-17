@@ -11,13 +11,11 @@ using cmd to create new shutdown schedules<br><br>
 + completely Re-designed and written in c#
 + All options are now HYBRID so windows fast startup is now on
 + New language (فارسی) added
->This New version works with .Net core 6.0 you can either download the dependent or the independent version(with different sizes)
+
 
 + طراحی و برنامه نویسی مجدد برنامه به زبان c#
 + تمامی گزینه ها به حالت هایبرید مجهز شدند تا در روشن کردن بعدی ویندوز سرعت بالاتر  برود
 + زبان فارسی اضافه شد
-> نسخه جدید از .Net core 6.0 استفاده میکند میتوانید نسخه کامل به همراه پیشنیاز ها و یا نسخه معمولی را نصب کنید
-
 
 ------------
 Auto Shutdown Windows Application V.1<br>
