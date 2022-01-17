@@ -3,6 +3,7 @@
 
 
 # [Download The Latest Version](https://github.com/smh044/Auto/releases)
+# [دانلود آخرین نسخه](https://github.com/smh044/Auto/releases)
 
 Auto Shutdown Windows Application V.2<br>
 using cmd to create new shutdown schedules<br><br>
