@@ -12,7 +12,7 @@ using cmd to create new shutdown schedules<br><br>
 + All options are now HYBRID so windows fast startup is now on
 + New language (فارسی) added
 
-
+**نسخه 2**
 + طراحی و برنامه نویسی مجدد برنامه به زبان c#
 + تمامی گزینه ها به حالت هایبرید مجهز شدند تا در روشن کردن بعدی ویندوز سرعت بالاتر  برود
 + زبان فارسی اضافه شد
